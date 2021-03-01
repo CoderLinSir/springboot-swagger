@@ -1,2 +1,2 @@
 # springboot-swagger
-一个基于springboot集成swagger的demo
+一个springboot集成swagger的demo
